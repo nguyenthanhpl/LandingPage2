@@ -1,0 +1,33 @@
+.nav-item{
+    padding-left: 30px;
+}
+.container-fluid{
+    margin-top: 10px;
+}
+.navbar-branc{
+    margin-left: 200px;
+}
+.navbar-nav {
+    margin-right: 200px;
+}
+.col-lg-4 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.Title{
+    padding-top: 50px;
+}
+.smtitle{
+    padding-top: 20px;
+    font-weight: 600;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.footerMenus{
+    background-color: #393a3d;
+}
